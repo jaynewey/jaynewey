@@ -12,9 +12,6 @@
 ![](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
 
-![](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat&logo=adobe%20photoshop&logoColor=white)
-![](https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=flat&logo=adobe%20illustrator&logoColor=white)
-
 ### I'm familiar with:
 
 ![](https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=flat&logo=travis&logoColor=white)
