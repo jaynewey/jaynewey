@@ -15,3 +15,4 @@
 
 ![](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/typescript%20-%23235A97.svg?&style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/rust%20-%23323330.svg?&style=flat&logo=rust&logoColor=white)
